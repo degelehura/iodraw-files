@@ -18,8 +18,11 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJ6bFExUjdsUmxCJTIyJTJDJTIycGFyYUlkeCUyMiUzQTAlMkMlMjJzcmMlMjIlM0ElMjJwcmVwYXJhdGlvbiUyMiUyQyUyMmRzdCUyMiUzQSUyMiVFNSU4NyU4NiVFNSVBNCU4NyUyMiUyQyUyMm1ldGFkYXRhJTIyJTNBJTIyJTIyJTJDJTIybWF0Y2hlcyUyMiUzQW51bGwlMkMlMjJtZXRhRGF0YSUyMiUzQSU1QiU1RCUyQyUyMnRleHQlMjIlM0ElMjJwcmVwYXJhdGlvbiUyMiU3RCU1RCU3RCU1RA==&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;Preparation&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=0;align=center;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="490" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="yuP3a7nj6ex4h4qDoAUO-2" value="GPU(≥ 24GB);&lt;div&gt;CPU(&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;≥&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8-core multi-threaded)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Storage:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RAM&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(≥ 32GB);&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="30" y="50" width="170" height="100" as="geometry" />
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-2" value="GPU(≥ 24GB);&lt;div&gt;CPU(&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;≥&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8-core multi-threaded)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Storage:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RAM&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(≥ 32GB);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="30" y="50" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="yuP3a7nj6ex4h4qDoAUO-6" target="yuP3a7nj6ex4h4qDoAUO-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-6" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="30" y="10" width="170" height="30" as="geometry" />
@@ -44,6 +47,9 @@
           <mxGeometry x="20" y="400" width="490" height="120" as="geometry">
             <mxRectangle x="20" y="120" width="480" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-10" value="GPU(≥ 24GB);&lt;div&gt;CPU(&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;≥&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8-core multi-threaded)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Storage:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RAM&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(≥ 32GB);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
