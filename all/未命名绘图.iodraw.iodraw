@@ -21,8 +21,16 @@
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-2" value="GPU(≥ 24GB);&lt;div&gt;CPU(&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;≥&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8-core multi-threaded)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Storage:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RAM&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(≥ 32GB);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="30" y="60" width="100" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="yuP3a7nj6ex4h4qDoAUO-6" target="yuP3a7nj6ex4h4qDoAUO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="yuP3a7nj6ex4h4qDoAUO-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="24.896551724137908" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-6" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="30" y="10" width="80" height="30" as="geometry" />
+          <mxGeometry x="30" y="10" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="270" y="50" width="190" height="100" as="geometry" />
@@ -33,8 +41,8 @@
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="yuP3a7nj6ex4h4qDoAUO-10" target="yuP3a7nj6ex4h4qDoAUO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuP3a7nj6ex4h4qDoAUO-10" value="Our Equipment:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="160" y="60" width="60" height="90" as="geometry" />
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-10" value="&lt;div&gt;We Choose&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="150" y="60" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Dataset" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="160" width="680" height="120" as="geometry">
