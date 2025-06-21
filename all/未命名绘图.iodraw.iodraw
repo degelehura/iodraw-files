@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Design Strategy Map" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Design Strategy Map" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="70" y="120" width="700" height="560" as="geometry">
             <mxRectangle x="70" y="120" width="40" height="140" as="alternateBounds" />
           </mxGeometry>
@@ -15,7 +15,7 @@
             <mxPoint x="300.0344827586207" y="199.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJ6bFExUjdsUmxCJTIyJTJDJTIycGFyYUlkeCUyMiUzQTAlMkMlMjJzcmMlMjIlM0ElMjJwcmVwYXJhdGlvbiUyMiUyQyUyMmRzdCUyMiUzQSUyMiVFNSU4NyU4NiVFNSVBNCU4NyUyMiUyQyUyMm1ldGFkYXRhJTIyJTNBJTIyJTIyJTJDJTIybWF0Y2hlcyUyMiUzQW51bGwlMkMlMjJtZXRhRGF0YSUyMiUzQSU1QiU1RCUyQyUyMnRleHQlMjIlM0ElMjJwcmVwYXJhdGlvbiUyMiU3RCU1RCU3RCU1RA==&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;Preparation&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJ6bFExUjdsUmxCJTIyJTJDJTIycGFyYUlkeCUyMiUzQTAlMkMlMjJzcmMlMjIlM0ElMjJwcmVwYXJhdGlvbiUyMiUyQyUyMmRzdCUyMiUzQSUyMiVFNSU4NyU4NiVFNSVBNCU4NyUyMiUyQyUyMm1ldGFkYXRhJTIyJTNBJTIyJTIyJTJDJTIybWF0Y2hlcyUyMiUzQW51bGwlMkMlMjJtZXRhRGF0YSUyMiUzQSU1QiU1RCUyQyUyMnRleHQlMjIlM0ElMjJwcmVwYXJhdGlvbiUyMiU3RCU1RCU3RCU1RA==&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;Preparation&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=0;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="680" height="200" as="geometry" />
         </mxCell>
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Suggestion:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GPU(≥ 24GB);&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;CPU(&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;≥&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8-core multi-threaded)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Storage:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RAM&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(≥ 32GB);&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
