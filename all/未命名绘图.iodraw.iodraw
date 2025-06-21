@@ -41,8 +41,8 @@
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="yuP3a7nj6ex4h4qDoAUO-10" target="yuP3a7nj6ex4h4qDoAUO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuP3a7nj6ex4h4qDoAUO-10" value="&lt;div&gt;We Choose&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="150" y="60" width="70" height="90" as="geometry" />
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;We Choose:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-v-ad365994=&quot;&quot; class=&quot;value&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;16 vCPU Intel(R)&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="150" y="60" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Dataset" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="160" width="680" height="120" as="geometry">
