@@ -39,6 +39,9 @@
         <mxCell id="yuP3a7nj6ex4h4qDoAUO-10" value="Our Equipment:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="30" y="110" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yuP3a7nj6ex4h4qDoAUO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="yuP3a7nj6ex4h4qDoAUO-2" target="yuP3a7nj6ex4h4qDoAUO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Dataset" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="160" width="490" height="120" as="geometry">
             <mxRectangle x="20" y="120" width="480" height="30" as="alternateBounds" />
