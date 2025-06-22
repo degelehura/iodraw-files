@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="crGvJTYqJjNg1rehLe_c-9" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="crGvJTYqJjNg1rehLe_c-9" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="70" width="1210" height="670" as="geometry" />
         </mxCell>
         <mxCell id="crGvJTYqJjNg1rehLe_c-10" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
           <mxGeometry width="329.12" height="457.5604986373693" as="geometry" />
         </mxCell>
-        <mxCell id="crGvJTYqJjNg1rehLe_c-11" value="&lt;div&gt;&lt;br/&gt;&lt;img src=&quot;file:///C:\Users\幻人#degele\AppData\Roaming\Tencent\Users\1174621377\QQ\WinTemp\RichOle\4PWF`HKR8}SSLDCQ~[Z[%BW.png&quot;&gt;&lt;/div&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
-          <mxGeometry x="810" y="260" width="370" height="330" as="geometry" />
+        <mxCell id="crGvJTYqJjNg1rehLe_c-11" value="&lt;div&gt;&lt;br/&gt;&lt;img src=&quot;file:///C:\Users\幻人#degele\AppData\Roaming\Tencent\Users\1174621377\QQ\WinTemp\RichOle\4PWF`HKR8}SSLDCQ~[Z[%BW.png&quot;&gt;&lt;/div&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
+          <mxGeometry x="810" y="260" width="370" height="320" as="geometry" />
         </mxCell>
         <mxCell id="crGvJTYqJjNg1rehLe_c-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
           <mxGeometry x="10" y="57.26332583117291" width="780" height="410.3871684567392" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="crGvJTYqJjNg1rehLe_c-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=64.54;rounded=1;rotation=-215;direction=west;flipV=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
           <mxGeometry x="606" y="410.3871684567392" width="168" height="190.87775277057634" as="geometry" />
         </mxCell>
-        <mxCell id="crGvJTYqJjNg1rehLe_c-18" value="Set up the basic data including model and fine-tuning method, and select the data set to preview the relevant content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
+        <mxCell id="crGvJTYqJjNg1rehLe_c-18" value="Set up the basic data including model and fine-tuning method, and select the data set to preview the relevant content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
           <mxGeometry x="100" y="524.9138201190849" width="195.44" height="76.35110110823054" as="geometry" />
         </mxCell>
         <mxCell id="crGvJTYqJjNg1rehLe_c-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="crGvJTYqJjNg1rehLe_c-9" source="crGvJTYqJjNg1rehLe_c-18">
