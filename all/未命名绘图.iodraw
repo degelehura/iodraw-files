@@ -41,16 +41,6 @@
         <mxCell id="crGvJTYqJjNg1rehLe_c-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Set up the basic data including model and fine-tuning method, and select the data set to preview the relevant content&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
           <mxGeometry x="870" y="96.57999999999998" width="270" height="70.65" as="geometry" />
         </mxCell>
-        <mxCell id="crGvJTYqJjNg1rehLe_c-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="crGvJTYqJjNg1rehLe_c-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="520" as="sourcePoint" />
-            <mxPoint x="960" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="960" y="520" />
-              <mxPoint x="910" y="470" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
