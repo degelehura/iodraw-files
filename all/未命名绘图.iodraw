@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="crGvJTYqJjNg1rehLe_c-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="130" y="320" width="523.6899999999999" height="405" as="geometry" />
+        <mxCell id="crGvJTYqJjNg1rehLe_c-9" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="crGvJTYqJjNg1rehLe_c-7" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;rotation=90;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-6">
-          <mxGeometry x="59.644187779433686" y="-88.03810975609755" width="252.50000000000006" height="404.99999999999994" as="geometry" />
+        <mxCell id="crGvJTYqJjNg1rehLe_c-10" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
+          <mxGeometry width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="crGvJTYqJjNg1rehLe_c-8" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;rotation=90;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-6">
-          <mxGeometry x="138.87423497267758" y="114.99884451219512" width="227.25000000000006" height="364.49999999999994" as="geometry" />
+        <mxCell id="crGvJTYqJjNg1rehLe_c-11" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="crGvJTYqJjNg1rehLe_c-9">
+          <mxGeometry x="50" y="5" width="45" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
