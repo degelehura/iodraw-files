@@ -25,10 +25,10 @@
             <mxPoint x="1080" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Cognition Label: &quot;Climb&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Qwen-vl Model Do&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="C_hjkhWtmrZQK_enUfrI-11">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C_hjkhWtmrZQK_enUfrI-4" target="C_hjkhWtmrZQK_enUfrI-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="180" as="sourcePoint" />
             <mxPoint x="730" y="220" as="targetPoint" />
