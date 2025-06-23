@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt3 of untrained&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="862.5" width="130" height="80" as="geometry" />
+          <mxGeometry x="1170" y="862.5" width="80" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hjkhWtmrZQK_enUfrI-56">
           <mxGeometry relative="1" as="geometry">
