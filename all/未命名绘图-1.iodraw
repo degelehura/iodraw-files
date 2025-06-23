@@ -34,9 +34,6 @@
         <mxCell id="C_hjkhWtmrZQK_enUfrI-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt of trained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="505" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="250" width="100" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
