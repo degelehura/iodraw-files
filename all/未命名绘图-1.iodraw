@@ -174,6 +174,12 @@
         <mxCell id="C_hjkhWtmrZQK_enUfrI-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repeat Test of Rest Files and Output&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;All Videos&#39; Predict &amp;amp; Label Into a File&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="785" y="1080" width="300" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#2C2C36;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="180" as="sourcePoint" />
+            <mxPoint x="730" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
