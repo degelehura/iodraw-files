@@ -52,6 +52,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Trained Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="410" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt of trained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="525" width="220" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
