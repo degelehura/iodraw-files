@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="crGvJTYqJjNg1rehLe_c-9" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="445" y="70" width="1210" height="620" as="geometry" />
+          <mxGeometry x="445" y="70" width="795" height="620" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C_hjkhWtmrZQK_enUfrI-4" target="C_hjkhWtmrZQK_enUfrI-6">
           <mxGeometry relative="1" as="geometry" />
@@ -24,6 +24,9 @@
             <mxPoint x="1030" y="450" as="sourcePoint" />
             <mxPoint x="1080" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Cognition Label: &quot;Climb&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
