@@ -17,7 +17,7 @@
           <mxGeometry x="930" y="220" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Videos:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;eg. Climb1.avi&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="660" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="620" y="90" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#2C2C36;" edge="1" parent="1" source="C_hjkhWtmrZQK_enUfrI-7" target="C_hjkhWtmrZQK_enUfrI-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
