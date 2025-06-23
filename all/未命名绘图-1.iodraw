@@ -40,6 +40,7 @@
             <mxPoint x="770" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="320" />
+              <mxPoint x="550" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,6 +59,7 @@
             <mxPoint x="520" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="320" />
+              <mxPoint x="900" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -122,7 +124,7 @@
           <mxGeometry x="685" y="822.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Reconsidered the Question and Limited the Answer of Original Qwen-vl Model&#39;s words into one word of Given&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="770" y="840" width="330" height="100" as="geometry" />
+          <mxGeometry x="770" y="852.5" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#2C2C36;" edge="1" parent="1" target="C_hjkhWtmrZQK_enUfrI-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
