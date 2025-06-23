@@ -25,7 +25,7 @@
             <mxPoint x="1080" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C_hjkhWtmrZQK_enUfrI-11" target="C_hjkhWtmrZQK_enUfrI-16">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C_hjkhWtmrZQK_enUfrI-11" target="C_hjkhWtmrZQK_enUfrI-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Trained Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
