@@ -7,13 +7,21 @@
         <mxCell id="d1NGWGLBEmb0nPbO-yCU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1NGWGLBEmb0nPbO-yCU-1" target="d1NGWGLBEmb0nPbO-yCU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d1NGWGLBEmb0nPbO-yCU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d1NGWGLBEmb0nPbO-yCU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1NGWGLBEmb0nPbO-yCU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1NGWGLBEmb0nPbO-yCU-1" target="d1NGWGLBEmb0nPbO-yCU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d1NGWGLBEmb0nPbO-yCU-1" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1NGWGLBEmb0nPbO-yCU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d1NGWGLBEmb0nPbO-yCU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d1NGWGLBEmb0nPbO-yCU-3" value="Visual Collection Equipment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1NGWGLBEmb0nPbO-yCU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
