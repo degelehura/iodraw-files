@@ -10,13 +10,13 @@
         <mxCell id="C_hjkhWtmrZQK_enUfrI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C_hjkhWtmrZQK_enUfrI-4" target="C_hjkhWtmrZQK_enUfrI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cognition Label: &quot;Climb&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cognition Label: &quot;Climb&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="210" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Label: Climb&quot; into Prompt1&amp;amp;2&amp;amp;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="170" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Videos:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;eg. Climb1.avi&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Videos:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;eg. Climb1.avi&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="620" y="90" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#2C2C36;" parent="1" source="C_hjkhWtmrZQK_enUfrI-7" target="C_hjkhWtmrZQK_enUfrI-4" edge="1">
@@ -208,10 +208,13 @@
           <mxGeometry x="1370" y="327.5" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Trained Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="490" width="300" height="70" as="geometry" />
+          <mxGeometry x="1370" y="440" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt1 of trained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="107.5" width="90" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="9RV0wwr5Lra1Qk_EJL33-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Original Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="387.5" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
