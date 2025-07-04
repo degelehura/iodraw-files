@@ -208,16 +208,13 @@
           <mxGeometry x="1370" y="327.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Trained Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="460" width="160" height="160" as="geometry" />
+          <mxGeometry x="1710" y="130" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Trained Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="410" width="160" height="150" as="geometry" />
+          <mxGeometry x="1840" y="490" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt1 of trained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="107.5" width="90" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="9RV0wwr5Lra1Qk_EJL33-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repeat Test of Rest Files and Output&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;All Videos&#39; Predict &amp;amp; Label Into a File&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="202.5" width="90" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
