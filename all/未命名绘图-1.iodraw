@@ -216,8 +216,8 @@
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt1 of trained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="107.5" width="90" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="9RV0wwr5Lra1Qk_EJL33-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt1 of trained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="407.5" width="90" height="115" as="geometry" />
+        <mxCell id="9RV0wwr5Lra1Qk_EJL33-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repeat Test of Rest Files and Output&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;All Videos&#39; Predict &amp;amp; Label Into a File&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="180" width="90" height="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
