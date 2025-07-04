@@ -205,7 +205,10 @@
           <mxGeometry x="1480" y="410" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cognition Label: &quot;Climb&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="550" width="300" height="60" as="geometry" />
+          <mxGeometry x="1430" y="555" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9RV0wwr5Lra1Qk_EJL33-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Trained Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
