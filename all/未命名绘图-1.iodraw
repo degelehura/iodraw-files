@@ -154,14 +154,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Reconsidered the Question and Limited the Answer of Original Qwen-vl Model&#39;s words into one word of Given&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1127.5" width="330" height="100" as="geometry" />
+          <mxGeometry x="510" y="1090" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#2C2C36;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="9RV0wwr5Lra1Qk_EJL33-13" source="9RV0wwr5Lra1Qk_EJL33-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="1045" as="sourcePoint" />
             <mxPoint x="630" y="515" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="1085" />
+              <mxPoint x="710" y="960" />
               <mxPoint x="815" y="1085" />
             </Array>
           </mxGeometry>
