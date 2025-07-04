@@ -147,7 +147,7 @@
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C_hjkhWtmrZQK_enUfrI-61" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1125" y="900" as="targetPoint" />
+            <mxPoint x="2220" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Q2: What are they doing in this video?(please only use one of those words to answer: climb, walk, talk, smoke, stand, fall-down, wear-helmet.)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
@@ -190,12 +190,6 @@
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt3 of untrained&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2260" y="403.75" width="80" height="127.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9RV0wwr5Lra1Qk_EJL33-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2215" y="465" as="targetPoint" />
-            <mxPoint x="2215" y="335" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9RV0wwr5Lra1Qk_EJL33-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repeat Test of Rest Files and Output&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;All Videos&#39; Predict &amp;amp; Label Into a File&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1875" y="545" width="300" height="70" as="geometry" />
