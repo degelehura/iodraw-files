@@ -47,7 +47,7 @@
         <mxCell id="C_hjkhWtmrZQK_enUfrI-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C_hjkhWtmrZQK_enUfrI-25" target="C_hjkhWtmrZQK_enUfrI-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Original Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Original Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="750" y="410" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: The individuals in the video are engaged in construction work. One person is standing on a ladder, likely installing or adjusting a ceiling or wall panel. The other person is holding a tool, possibly a drill or hammer, and appears to be assisting or coordinating the work. Their attire, including high-visibility vests and hard hats, indicates that they are construction workers. The setting is a partially constructed building, suggesting they are working on the interior or framing of the structure.&quot; into Prompt2 of untrained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Output the Prompt1&amp;amp;2 File&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Output the Prompt1&amp;amp;2 File&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="700" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#2C2C36;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="C_hjkhWtmrZQK_enUfrI-31" target="C_hjkhWtmrZQK_enUfrI-34" edge="1">
@@ -101,7 +101,7 @@
             <mxPoint x="730" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Do Analysis on&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Prompt1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=8;" parent="1" vertex="1">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Do Analysis on&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Prompt1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=8;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="220" y="712.5" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;For Prompt1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
