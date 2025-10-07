@@ -13,7 +13,7 @@
         <mxCell id="C_hjkhWtmrZQK_enUfrI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C_hjkhWtmrZQK_enUfrI-11" target="C_hjkhWtmrZQK_enUfrI-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Trained Qwen-vl Model Do Video Cognition and Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="C_hjkhWtmrZQK_enUfrI-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Trained MLLM &amp;amp; Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="410" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Predict: Climb&quot; into Prompt1 of trained&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="1" vertex="1">
