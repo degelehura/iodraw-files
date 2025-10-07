@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="crGvJTYqJjNg1rehLe_c-9" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" y="200" width="1080" height="1210" as="geometry" />
+          <mxGeometry x="200" y="200" width="1080" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Videos with Prompt:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;eg. Climb1.avi&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="570" y="210" width="300" height="60" as="geometry" />
