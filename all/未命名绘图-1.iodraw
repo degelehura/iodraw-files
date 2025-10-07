@@ -7,23 +7,8 @@
         <mxCell id="crGvJTYqJjNg1rehLe_c-9" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="70" width="1080" height="1460" as="geometry" />
         </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C_hjkhWtmrZQK_enUfrI-4" target="C_hjkhWtmrZQK_enUfrI-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Videos:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;eg. Climb1.avi&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="570" y="210" width="300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Print: &quot;Label: Climb&quot; into Prompt1&amp;amp;2&amp;amp;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="170" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Videos:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;eg. Climb1.avi&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="620" y="90" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="C_hjkhWtmrZQK_enUfrI-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#2C2C36;" parent="1" source="C_hjkhWtmrZQK_enUfrI-7" target="C_hjkhWtmrZQK_enUfrI-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="450" as="sourcePoint" />
-            <mxPoint x="1080" y="400" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="C_hjkhWtmrZQK_enUfrI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C_hjkhWtmrZQK_enUfrI-11" target="C_hjkhWtmrZQK_enUfrI-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
