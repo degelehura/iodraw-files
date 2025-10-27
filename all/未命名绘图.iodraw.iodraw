@@ -5,7 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="视觉语言模型微调策略" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=35;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="650" height="340" as="geometry" />
+          <mxGeometry x="20" y="20" width="650" height="340" as="geometry">
+            <mxRectangle x="20" y="20" width="200" height="35" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4" value="输入" style="swimlane;startSize=25;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14" parent="2" vertex="1">
           <mxGeometry y="35" width="130" height="305" as="geometry" />
