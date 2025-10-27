@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="视觉语言模型微调策略" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=35;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="1610" height="600" as="geometry" />
+          <mxGeometry x="20" y="20" width="650" height="600" as="geometry" />
         </mxCell>
         <mxCell id="4" value="输入" style="swimlane;startSize=25;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14" parent="2" vertex="1">
           <mxGeometry y="35" width="130" height="565" as="geometry" />
