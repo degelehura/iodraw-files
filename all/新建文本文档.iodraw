@@ -1,0 +1,90 @@
+<mxGraphModel dx="1106" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <mxCell id="3" value="<font style=&quot;font-size: 18px; font-weight: bold;&quot;>Fine-Tuning Strategies for Vision-Language Models</font>" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#f0f7ff;strokeColor=#2F54EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
+      <mxGeometry x="40" y="80" width="920" height="320" as="geometry"/>
+    </mxCell>
+    <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2F54EB;fillColor=#ffffff;" vertex="1" parent="3">
+      <mxGeometry y="40" width="920" height="280" as="geometry"/>
+    </mxCell>
+    <mxCell id="8" value="<font style=&quot;font-size: 14px; font-weight: bold;&quot;>Tuning Approaches</font>" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f2ff;strokeColor=#2F54EB;fontColor=#000000;" vertex="1" parent="3">
+      <mxGeometry x="40" y="70" width="120" height="140" as="geometry"/>
+    </mxCell>
+    <mxCell id="10" value="<b>FULL</b><div>Update all parameters</div>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2F54EB;fontSize=12;" vertex="1" parent="3">
+      <mxGeometry x="190" y="60" width="120" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="12" value="<b>FREEZE</b><div>Fix ViT, train LLM only</div>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2F54EB;fontSize=12;" vertex="1" parent="3">
+      <mxGeometry x="190" y="120" width="120" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="15" value="<b>LoRA</b><div>Low-Rank Adaptation</div>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2F54EB;fontSize=12;" vertex="1" parent="3">
+      <mxGeometry x="190" y="180" width="120" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;" edge="1" parent="3" source="8" target="10">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;" edge="1" parent="3" source="8" target="12">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;" edge="1" parent="3" source="8" target="15">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="23" value="<b>MLLM / VLM</b><div>Multimodal Large Language Model</div>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2F54EB;fontSize=12;" vertex="1" parent="3">
+      <mxGeometry x="360" y="105" width="140" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;dashed=1;" edge="1" parent="3" source="10" target="23">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;dashed=1;" edge="1" parent="3" source="12" target="23">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;dashed=1;" edge="1" parent="3" source="15" target="23">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="17" value="<b>Frozen ViT</b>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#999999;fontSize=11;dashed=1;" vertex="1" parent="3">
+      <mxGeometry x="210" y="195" width="80" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="20" value="<b>Trainable ViT</b>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f7ff;strokeColor=#1890ff;fontSize=11;" vertex="1" parent="3">
+      <mxGeometry x="210" y="225" width="80" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;dashed=1;" edge="1" parent="3" source="15" target="17">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#1890ff;" edge="1" parent="3" source="15" target="20">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="25" value="<b>Prompt Engineering</b><div>Direct Restriction</div>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2F54EB;fontSize=12;" vertex="1" parent="3">
+      <mxGeometry x="540" y="70" width="140" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="27" value="<b>Prompt Engineering</b><div>Indirect Restriction</div>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2F54EB;fontSize=12;" vertex="1" parent="3">
+      <mxGeometry x="540" y="160" width="140" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;" edge="1" parent="3" source="23" target="25">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;dashed=1;" edge="1" parent="3" source="23" target="27">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="18" value="<b>Training Parameter Adjustment</b>" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2F54EB;fontSize=12;" vertex="1" parent="3">
+      <mxGeometry x="720" y="105" width="160" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;" edge="1" parent="3" source="25" target="18">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F54EB;dashed=1;" edge="1" parent="3" source="27" target="18">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="30" value="<i>Fine-Tuning Workflow</i>" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#666666;" vertex="1" parent="3">
+      <mxGeometry x="360" y="240" width="200" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="31" value="" style="endArrow=classic;html=1;strokeColor=#2F54EB;strokeWidth=2;" edge="1" parent="1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="40" y="450" as="sourcePoint"/>
+        <mxPoint x="90" y="450" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="32" value="<font color=&quot;#2F54EB&quot;>Legend:</font><div><font color=&quot;#2F54EB&quot;>Solid line: Primary path</font></div><div><font color=&quot;#2F54EB&quot;>Dashed line: Alternative / optional path</font></div>" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="100" y="430" width="250" height="40" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
