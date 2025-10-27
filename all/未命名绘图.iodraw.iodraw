@@ -204,6 +204,57 @@
         <mxCell id="-U_gi_YoSgS8u96205n2-28" value="&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJlcXJORzY5TzZWJTIyJTJDJTIycGFyYUlkeCUyMiUzQTAlMkMlMjJzcmMlMjIlM0ElMjJDYXB0dXJlJTIwaW1hZ2VzJTIwYnklMjBzZXQlMjBmcmFtZSUyMiUyQyUyMmRzdCUyMiUzQSUyMiVFNiU4QyU4OSVFOCVBRSVCRSVFNSVBRSU5QSVFNSVCOCVBNyVFNiU4RCU5NSVFOCU4RSVCNyVFNSU5QiVCRSVFNSU4MyU4RiUyMiUyQyUyMm1ldGFkYXRhJTIyJTNBJTIyJTIyJTJDJTIybWF0Y2hlcyUyMiUzQW51bGwlMkMlMjJ0cmFuc2xhdGVkQnklMjIlM0FudWxsJTJDJTIybWV0YURhdGElMjIlM0ElNUIlNUQlMkMlMjJ0ZXh0JTIyJTNBJTIyQ2FwdHVyZSUyMGltYWdlcyUyMGJ5JTIwc2V0JTIwZnJhbWUlMjIlN0QlNUQlN0QlNUQ=&quot; style=&quot;white-space: pre;&quot;&gt;Process of Fine-Tuning&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="-U_gi_YoSgS8u96205n2-3">
           <mxGeometry x="300" y="190" width="250" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-1" value="原始图像 + 文本提示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="35" y="115" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-2" value="选择微调方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="165" y="115" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-3" value="FULL\n全参数微调" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="295" y="115" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-4" value="FREEZE\n冻结ViT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="295" y="195" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-5" value="LoRA\n低秩适配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="295" y="275" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-6" value="直接约束\n（如输出格式）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="155" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-7" value="间接引导\n（如示例few-shot）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="235" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-8" value="检测结果\n{\n  &quot;bbox_2d&quot;: [x1,y1,x2,y2],\n  &quot;label&quot;: &quot;carton&quot;,\n  &quot;confidence&quot;: 0.95\n}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontFamily=monospace;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="550" y="155" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-1" target="cmuF3Xscjoh6uMH0dLuF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.25;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-2" target="cmuF3Xscjoh6uMH0dLuF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-2" target="cmuF3Xscjoh6uMH0dLuF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.75;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-2" target="cmuF3Xscjoh6uMH0dLuF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.25;entryX=0;entryY=0.5;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-3" target="cmuF3Xscjoh6uMH0dLuF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-4" target="cmuF3Xscjoh6uMH0dLuF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.75;entryX=0;entryY=0.5;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-5" target="cmuF3Xscjoh6uMH0dLuF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-6" target="cmuF3Xscjoh6uMH0dLuF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmuF3Xscjoh6uMH0dLuF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#000000;" edge="1" parent="1" source="cmuF3Xscjoh6uMH0dLuF-7" target="cmuF3Xscjoh6uMH0dLuF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
