@@ -274,7 +274,7 @@
             <mxPoint x="940" y="754.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="570" />
-              <mxPoint x="940" y="712" />
+              <mxPoint x="940" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -310,7 +310,7 @@
           <mxGeometry x="805" y="590" width="270" height="45" as="geometry" />
         </mxCell>
         <mxCell id="67lli_PhJDvwrVyHRM4q-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Reconsidered the Question and Limited the Answer of Original Qwen-vl Model&#39;s words into one word of Given&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="555" y="982" width="330" height="100" as="geometry" />
+          <mxGeometry x="560" y="680" width="330" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
