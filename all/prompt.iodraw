@@ -217,8 +217,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67lli_PhJDvwrVyHRM4q-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Trained MLLM &amp;amp; Generate a Predict&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="750" y="340" width="300" height="50" as="geometry" />
+        <mxCell id="67lli_PhJDvwrVyHRM4q-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Trained &lt;/b&gt;MLLM &amp;amp; Generate a Predict&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="740" y="340" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="67lli_PhJDvwrVyHRM4q-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#2C2C36;fillColor=#2C2C36;strokeWidth=1;" edge="1" parent="1" target="67lli_PhJDvwrVyHRM4q-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
