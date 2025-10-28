@@ -204,8 +204,8 @@
         <mxCell id="67lli_PhJDvwrVyHRM4q-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Videos with &lt;b&gt;Training Prompt&lt;/b&gt;:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="570" y="230" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="67lli_PhJDvwrVyHRM4q-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Original MLLM &amp;amp; Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="300" height="50" as="geometry" />
+        <mxCell id="67lli_PhJDvwrVyHRM4q-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Original&lt;/b&gt; MLLM &amp;amp; Generate a Predict&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="67lli_PhJDvwrVyHRM4q-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#2C2C36;fillColor=#2C2C36;" edge="1" parent="1" source="67lli_PhJDvwrVyHRM4q-2" target="67lli_PhJDvwrVyHRM4q-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
